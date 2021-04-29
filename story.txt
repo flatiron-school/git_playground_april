@@ -1,1 +1,25 @@
-He was enrolled at Flatiron.
+Thus ending what would be an exciting career as a commercial airline pilot. THE END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Yay! my bash finally works!)
+>>>>>>> 5df404bb022c60f9d2ecaf86e728fd3242ff108a
